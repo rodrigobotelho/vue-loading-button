@@ -41,7 +41,7 @@ export default {
 button {
   font-family: inherit;
   font-size: 100%;
-  font-size: 1.4rem;
+  font-size: 1rem;
   line-height: 1.15;
   margin: 0;
   overflow: visible;
